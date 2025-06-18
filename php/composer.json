@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mongodb/mongodb": "^2.1",
+        "graphaware/neo4j-php-client": "^4.2",
+        "laudis/neo4j-php-client": "^3.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
