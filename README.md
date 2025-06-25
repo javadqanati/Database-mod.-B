@@ -20,7 +20,7 @@ The system will be able to manage the reception of data via MQTT server, analyze
 
 ## System Architecture Overview
 
-**Database-mod.-B** is a modular, educational IoT data platform designed to demonstrate core concepts of database systems and their integration with real-time data pipelines. The system receives data from IoT devices or sensors via the MQTT protocol, processes it using Python, and stores it in various databases (MySQL, MongoDB, Neo4j) based on the data topic.
+**Database-mod.-B Project** is a modular, educational IoT data platform designed to demonstrate core concepts of database systems and their integration with real-time data pipelines. The system receives data from IoT devices or sensors via the MQTT protocol, processes it using Python, and stores it in various databases (MySQL, MongoDB, Neo4j) based on the data topic.
 
 ### Architectural Components
 
