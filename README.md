@@ -1,4 +1,4 @@
-# Database-mod.-B
+# Integration of MQTT Server and Python for Big Data Analysis and Storage in Different Database Platforms
 
 **Database-mod.-B** is a modular database project designed to provide a foundational understanding of database management systems, their architecture, and implementation. This project aims to help students, developers, and enthusiasts explore the core principles of database systems, including data storage, indexing, query processing, and transaction management.
 
@@ -10,6 +10,11 @@
 - **Query Processing:** Provides a framework for parsing and executing basic database queries.
 - **Transaction Management:** Demonstrates fundamental concepts of transactions and concurrency control.
 - **Educational Focus:** Well-documented code and examples to facilitate learning and experimentation.
+
+## Description of the project:
+The project aims to develop a system capable of collecting, processing and storing large volumes of data from sensors or IoT devices using the MQTT (Message Queuing Telemetry Transport) protocol and Python. 
+The system will be able to manage the reception of data via MQTT server, analyze it in real time and store it in different types of databases, including SQL, MongoDB and Neo4j, based on the topic of the MQTT messages.
+
 
 ## Getting Started
 
